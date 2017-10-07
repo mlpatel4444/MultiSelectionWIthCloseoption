@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiSelectionDemos</string>
+    <string name="multi_in_textview">Multiple in TextView</string>
+    <string name="put_selection">Choose your selections</string>
+    <string name="With_closing_options">With Closing Options</string>
+    <string name="simple_stub_view">Simple Stab View</string>
+</resources>
