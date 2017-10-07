@@ -16,7 +16,6 @@ import java.util.List;
 /**
  * Created by sphere70 on 14/9/17.
  */
-//https://android--code.blogspot.in/2015/08/android-alertdialog-multichoice.html
 public class TextViewMultiSelectionActivity extends AppCompatActivity
 {
     RelativeLayout mRel;

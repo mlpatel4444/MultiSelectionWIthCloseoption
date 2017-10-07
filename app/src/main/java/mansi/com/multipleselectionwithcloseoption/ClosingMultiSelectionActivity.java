@@ -18,7 +18,6 @@ import java.util.List;
 /**
  * Created by sphere70 on 15/9/17.
  */
-//http://theopentutorials.com/tutorials/android/listview/android-custom-listview-with-image-and-text-using-arrayadapter/
 
 public class ClosingMultiSelectionActivity extends AppCompatActivity
 {
